@@ -11,7 +11,7 @@
 </a>
 <br />
 
-I'm [Sewade Ogun](https://ogunlao.github.io/), a Machine Learning Research Engineer 🚀 from Lagos, Nigeria. I'm currently a Teaching Assistant at the [African Institute for Mathematical Sciences](https://nexteinstein.org/) under the African Masters in Machine Intelligence program 🙍🏽‍ and an ML Researcher Intern[@ubenwa_ai](https://www.ubenwa.ai/). Beside's working with data, I enjoy traveling.
+I'm [Sewade Ogun](https://ogunlao.github.io/), a Machine Learning Research Engineer 🚀 from Lagos, Nigeria. I'm currently a Teaching Assistant at the [African Institute for Mathematical Sciences](https://nexteinstein.org/) under the African Masters in Machine Intelligence program 🙍🏽‍ and an ML Research Intern[@ubenwa_ai](https://www.ubenwa.ai/). Beside's working with data, I enjoy traveling.
 
 **Talking about Personal Stuffs:**
 
