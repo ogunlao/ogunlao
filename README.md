@@ -16,7 +16,7 @@ I'm [Sewade Ogun](https://ogunlao.github.io/), a Machine Learning Research Engin
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on some amazing research on detecting infant pathology in new borns using machine learning! <img src="https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width="25px">
-- 🌱 I’m work speech speech data most of the time, with applications in speech recognition and speech classification
+- 🌱 I love working with speech and text data, with applications in language modelling, speech recognition and speech classification
 - 👯 I’m looking to collaborate on any Natural Langauge Processing related projects
 - 📫 You can reach me [@SewadeOgun](https://twitter.com/SewadeOgun)
 - 😄 Pronouns: he/him
