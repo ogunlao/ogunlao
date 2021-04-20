@@ -21,7 +21,7 @@ I'm [Sewade Ogun](https://ogunlao.github.io/), a Machine Learning Research Engin
 - 📫 You can reach me [@SewadeOgun](https://twitter.com/SewadeOgun)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The derivative and integral of e^x is itself <img src="https://media.giphy.com/media/J1XmdgEVdUSPap7xkq/giphy.gif" width="25px">
-- 📝[Resume](https://drive.google.com/file/d/1HJCfONopWEoxCChxl5DyQtQBiXU2jYmj/view?usp=sharing)
+- 📝[Resume](https://ogunlao.github.io/archive/SewadeOgunCV.pdf)
 
 
 **Languages and Tools**
