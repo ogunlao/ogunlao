@@ -11,16 +11,16 @@
 </a>
 <br />
 
-I'm [Sewade Ogun](https://ogunlao.github.io/), a Machine Learning Research Engineer 🚀 from Lagos, Nigeria. I'm currently a Teaching Assistant at the [African Institute for Mathematical Sciences](https://nexteinstein.org/) under the African Masters in Machine Intelligence program 🙍🏽‍ and an ML Research Intern[@ubenwa_ai](https://www.ubenwa.ai/). Beside's working with data, I enjoy traveling.
+I'm [Sewade Ogun](https://ogunlao.github.io/), a PhD Student with Inria and Vivoka in France. Previously, I worked as a Machine Learning Research Intern 🙍🏽‍ with [@ubenwa_ai](https://www.ubenwa.ai/). Beside's working with data, I enjoy traveling.
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on some amazing research on detecting infant pathology in new borns using machine learning! <img src="https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width="25px">
+- 🔭 My PhD research focus in on automatic speech recognition (ASR) with limited data for embedded devices. That's a 3 in 1. lol! <img src="https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width="25px">
 - 🌱 I love working with speech and text data, with applications in language modelling, speech recognition and speech classification
-- 👯 I’m looking to collaborate on any Natural Langauge Processing related projects
+- 👯 I can collaborate on research and projects involving ASR 
 - 📫 You can reach me [@SewadeOgun](https://twitter.com/SewadeOgun)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The derivative and integral of e^x is itself <img src="https://media.giphy.com/media/J1XmdgEVdUSPap7xkq/giphy.gif" width="25px">
+- ⚡ Fun fact: I never entered a train until this year <img src="https://media.giphy.com/media/J1XmdgEVdUSPap7xkq/giphy.gif" width="25px">
 - 📝[Resume](https://ogunlao.github.io/archive/SewadeOgunCV.pdf)
 
 
