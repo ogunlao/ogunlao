@@ -15,7 +15,7 @@ I'm [Sewade Ogun](https://ogunlao.github.io/), a PhD Student with Inria and Vivo
 
 **Talking about Personal Stuffs:**
 
-- 🔭 My PhD research focus in on automatic speech recognition (ASR) with limited data for embedded devices. That's a 3 in 1. lol! <img src="https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width="25px">
+- 🔭 My PhD research is on automatic speech recognition (ASR) for embedded devices. That's a 2 in 1. lol! <img src="https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width="25px">
 - 🌱 I love working with speech and text data, with applications in language modelling, speech recognition and speech classification
 - 👯 I can collaborate on research and projects involving ASR 
 - 📫 You can reach me [@SewadeOgun](https://twitter.com/SewadeOgun)
