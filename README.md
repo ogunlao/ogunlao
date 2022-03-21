@@ -11,7 +11,7 @@
 </a>
 <br />
 
-I'm [Sewade Ogun](https://ogunlao.github.io/), a PhD Student with Inria and Vivoka in France. Previously, I worked as a Machine Learning Research Intern 🙍🏽‍ with [@ubenwa_ai](https://www.ubenwa.ai/). Beside's working with data, I enjoy traveling.
+I'm [Sewade Ogun](https://ogunlao.github.io/), a PhD Student working at the National Institute for Research in Digital Science and Technology (Inria) in France. Previously, I worked as a Machine Learning Research Intern 🙍🏽‍ with [@ubenwa_ai](https://www.ubenwa.ai/). Beside's working with data, I enjoy traveling.
 
 **Talking about Personal Stuffs:**
 
