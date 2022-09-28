@@ -7,7 +7,7 @@
   <img align="left" alt="Sewade's's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://ogunlao.github.io/">
-  <img align="left" alt="Sewade's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blog.svg" />
+  <img align="left" alt="Sewade's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microdotblog.svg" />
 </a>
 <br />
 
